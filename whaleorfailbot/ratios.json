@@ -1,0 +1,48 @@
+{
+  "items": {
+  },
+  "currencies": {
+    "gems": {
+      "amount_per_dollar": 140.07,
+      "amount_per_gem": 1
+    },
+    "credits": {
+    },
+    "char_ability_materials": {
+      "char_ability_material_mk_1": {
+      },
+      "char_ability_material_mk_2": {
+      },
+      "char_ability_material_mk_3": {
+      },
+      "char_ability_material_omega": {
+      },
+      "char_ability_material_zeta": {
+      }
+    },
+    "ship_ability_materials": {
+    },
+    "relics": {
+    },
+    "training_droids": {
+    }
+  },
+  "energies": {
+    "conquest_energy": {
+    },
+    "ship_energy": {
+    },
+    "mod_energy": {
+    },
+    "cantina_energy": {
+    },
+    "energy": {
+    }
+  },
+  "shards": {
+    "characters": {
+    },
+    "ships": {
+    }
+  }
+}
