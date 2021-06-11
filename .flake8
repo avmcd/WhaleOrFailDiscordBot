@@ -1,0 +1,13 @@
+[flake8]
+exclude =
+    *_pb2.py, # auto generated proto files
+    telemetry_sender.py, # legacy file
+    .git, # No need to traverse our git directory
+    .mypy_cache, # There's no value in checking cache directories
+    __pycache__ # There's no value in checking cache directories
+ignore =
+    E203, # White space before : #black does this rarely
+    E501, # string literals over line limit
+    F541, # allow jinja to have stuff
+    W503 # allow lines to start with operators
+max-line-length = 120
